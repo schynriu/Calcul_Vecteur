@@ -1,0 +1,7 @@
+﻿  CalculVecteur.cpp
+C:\Users\valen\source\repos\CalculVecteur\CalculVecteur\Matrice.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'vect.h' : No such file or directory
+  matrice.cpp
+C:\Users\valen\source\repos\CalculVecteur\CalculVecteur\Matrice.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'vect.h' : No such file or directory
+  Vecteur.cpp
+C:\Users\valen\source\repos\CalculVecteur\CalculVecteur\Matrice.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'vect.h' : No such file or directory
+  Génération de code en cours...
